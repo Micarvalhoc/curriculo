@@ -1,0 +1,27 @@
+# Seu Nome
+![Sua Foto](link_para_sua_foto.jpg)
+
+## Resumo
+Sou um [sua profissão] com experiência em [suas principais competências]. Busco oportunidades que [seus objetivos].
+
+## Experiência
+### Nome da Empresa (Data de Início - Data de Término)
+- Descrição das responsabilidades e realizações no cargo.
+- Outras informações relevantes.
+
+## Educação
+### Nome da Universidade (Ano de Graduação)
+- Grau obtido e área de estudo.
+
+## Habilidades
+- Lista de habilidades relevantes.
+
+## Projetos
+- Descrição de projetos relevantes com links ou detalhes adicionais.
+
+## Idiomas
+- Idiomas que você fala e seu nível de proficiência.
+
+## Contato
+- Endereço de e-mail
+- Links para perfis de mídia social ou LinkedIn
